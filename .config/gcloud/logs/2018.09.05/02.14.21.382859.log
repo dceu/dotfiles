@@ -1,0 +1,5 @@
+2018-09-05 02:14:21,387 DEBUG    root            Loaded Command Group: [u'gcloud', u'components']
+2018-09-05 02:14:21,393 DEBUG    root            Loaded Command Group: [u'gcloud', u'components', u'post_process']
+2018-09-05 02:14:21,400 DEBUG    root            Running [gcloud.components.post-process] with arguments: []
+2018-09-05 02:14:42,341 INFO     root            Display format: "none"
+2018-09-05 02:14:42,365 DEBUG    root            Metrics reporting process started...

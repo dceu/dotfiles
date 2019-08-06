@@ -1,0 +1,75 @@
+{
+   "checksum": "664d6f793c3eb3231342e0ca078203c3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "0",
+            "id": "5",
+            "name": "Debian.org",
+            "type": "url",
+            "url": "http://www.debian.org/"
+         }, {
+            "date_added": "0",
+            "id": "6",
+            "name": "Latest News",
+            "type": "url",
+            "url": "http://www.debian.org/News/"
+         }, {
+            "date_added": "0",
+            "id": "7",
+            "name": "Help",
+            "type": "url",
+            "url": "http://www.debian.org/support"
+         }, {
+            "date_added": "13197030481941595",
+            "id": "9",
+            "meta_info": {
+               "last_visited_desktop": "13199734926441895"
+            },
+            "name": "i3 Reference Card",
+            "type": "url",
+            "url": "https://i3wm.org/docs/refcard.html"
+         }, {
+            "date_added": "13197030493336967",
+            "id": "10",
+            "meta_info": {
+               "last_visited_desktop": "13197030493338487"
+            },
+            "name": "markdown-cheatsheet-online",
+            "type": "url",
+            "url": "https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf"
+         }, {
+            "date_added": "13197030506052802",
+            "id": "11",
+            "meta_info": {
+               "last_visited_desktop": "13197331985684922"
+            },
+            "name": "Terminal — A simple, retro theme for Hugo",
+            "type": "url",
+            "url": "http://donovanuy.com/"
+         } ],
+         "date_added": "13182112703932492",
+         "date_modified": "13197030506052802",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13182112703932507",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13182112703932515",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

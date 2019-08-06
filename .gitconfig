@@ -1,0 +1,6 @@
+[user]
+	email = dceu00@gmail.com
+	name = dceu
+	signingKey = 1A83F2840648BD69
+[commit]
+	gpgSign = false

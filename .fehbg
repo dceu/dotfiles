@@ -1,0 +1,2 @@
+#!/bin/sh
+feh  --bg-fill '/home/dcuy/img/20-sided.png' 

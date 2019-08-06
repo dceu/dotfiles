@@ -1,0 +1,30 @@
+2018-09-27 01:22:23,025 DEBUG    root            Loaded Command Group: ['gcloud', 'auth']
+2018-09-27 01:22:23,034 DEBUG    root            Loaded Command Group: ['gcloud', 'auth', 'login']
+2018-09-27 01:22:23,042 DEBUG    root            Running [gcloud.auth.login] with arguments: []
+2018-09-27 01:22:24,039 INFO     ___FILE_ONLY___ Go to the following link in your browser:
+
+    https://accounts.google.com/o/oauth2/auth?redirect_uri=urn%3Aietf%3Awg%3Aoauth%3A2.0%3Aoob&prompt=select_account&response_type=code&client_id=32555940559.apps.googleusercontent.com&scope=https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fappengine.admin+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcompute+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Faccounts.reauth&access_type=offline
+
+
+
+2018-09-27 01:22:55,507 INFO     oauth2client.client Successfully retrieved access token
+2018-09-27 01:22:55,527 WARNING  root            `gcloud auth login` no longer writes application default credentials.
+If you need to use ADC, see:
+  gcloud auth application-default --help
+2018-09-27 01:22:55,529 INFO     ___FILE_ONLY___ 
+You are now logged in as [dceu00@gmail.com].
+Your current project is [helium-powered].  You can change this setting by running:
+  $ gcloud config set project PROJECT_ID
+
+2018-09-27 01:22:55,533 INFO     root            Display format "none".
+2018-09-27 01:22:55,540 DEBUG    root            Checking for updates...
+2018-09-27 01:22:55,867 DEBUG    root            Updating notification cache...
+2018-09-27 01:22:55,867 DEBUG    root            Activating notification: [default]
+2018-09-27 01:22:55,868 INFO     ___FILE_ONLY___ 
+
+Updates are available for some Cloud SDK components.  To install them,
+please run:
+  $ gcloud components update
+
+
+2018-09-27 01:22:55,891 DEBUG    root            Metrics reporting process started...
